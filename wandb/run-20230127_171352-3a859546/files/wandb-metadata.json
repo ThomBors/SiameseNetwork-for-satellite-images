@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2023-01-27T16:13:53.073005",
+    "startedAt": "2023-01-27T16:13:52.342813",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ThomBors/SiameseNetwork.git",
+        "commit": "8093dc189ff56a7fecf05c4ce422937c075273b5"
+    },
+    "email": "tborsani@unibz.it",
+    "root": "C:/Users/thoma/OneDrive/Documents/UNIBZ/Deep Learning/SiameseNetwork",
+    "host": "DESKTOP-4C19UAE",
+    "username": "thoma",
+    "executable": "c:\\Users\\thoma\\.conda\\envs\\deepL\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2000.0,
+        "min": 0.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 0.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "total": 952.6220664978027,
+        "used": 149.49134063720703
+    },
+    "memory": {
+        "total": 15.372367858886719
+    }
+}
